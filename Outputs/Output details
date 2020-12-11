@@ -1,0 +1,14 @@
+parser_output 
+-> This is output for the part 1 code(IRS_PRO 1). 
+-> This includes all the stemmed words and documents with their assigned ID's from our dictionary.
+
+forward_index
+Inverted_index
+-> These files are outputs of second part of code(IRS_PRO 2).
+
+Rank_title
+Rank_title_desc
+Rank_title_desc_narr
+-> These files are outputs of third part of code(IRS PROJECT 3).
+This includes the ranks for the documents with respect to their queries.
+
