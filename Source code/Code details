@@ -1,0 +1,9 @@
+Before Running the file: 
+
+In the line which contains : path='/Users/hemanthkaluvakuri/Downloads/project1-2/ft911/'. Replace ‘/Users/hemanthkaluvakuri/Downloads/project1-2/ft911/’  with the path that project file(ft911) presented in your system.
+
+In the line which contains : stopw=open('/Users/hemanthkaluvakuri/Downloads/project1-2/stopwordlist.txt'). Replace  '/Users/hemanthkaluvakuri/Downloads/project1-2/stopwordlist.txt' with the path stopwordlist file presented in your system.
+
+In the line which contains ‘open('/Users/hemanthkaluvakuri/Downloads/Proj3/topics.txt')’ provide the topic file in your system.
+
+In the line which contains ‘open('/Users/hemanthkaluvakuri/Downloads/Proj3/ main.qrels)’ provide the main.qrels file in your system.
